@@ -4,6 +4,6 @@
 :sources: 
 - http://rubygems.org/
 - http://gems.github.com/
-:backtrace: false
+:backtrace: true
 :bulk_threshold: 1000
 :benchmark: false
